@@ -7,17 +7,6 @@ Java Simulation of the WWII Enigma machine
 
 runs the program.
 
-The command
-
-    gmake style
-
-runs style61b on all the .java files in the enigma directory.  You
-must get a clean audit before you submit your program.  The style
-check enforces certain "neatness" criteria.  It is also useful as a
-kind of "to-do list".  The style checks don't allow "//" comments, so
-we have used them to indicate things that you'll need to fill in (if
-you use our skeleton).  You can use them the same way to remind
-yourself of things you still need to do.
 
 
 Files in this distribution:
